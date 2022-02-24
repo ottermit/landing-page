@@ -154,7 +154,8 @@ a {
     min-height: 140px;
     width: 480px;
     margin-left: 12px;
-    
+    justify-content: center;
+    align-items: center;
 }
 
 p {
